@@ -1,0 +1,9 @@
+---------------------------------------------------------
+------------------------- To-Do -------------------------
+---------------------------------------------------------
+
+1. Make resume focused on Embedded system for all silicon based companies.
+	a. Add publication and reward
+		i. Publication should be focusing on WMR and Hardware
+	       ii. Explain algo utilized
+	      iii. Explain about the reward i.e. kudos at Intel
