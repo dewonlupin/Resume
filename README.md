@@ -2,6 +2,4 @@
 Resume for current achievements.
 
 ## Summary
-Experienced Software Engineer seeking roles in Embedded Software and DevOps Engineering. Proficient in C, C++, Python, Bash, Docker, Git, and CMake. 
-Proven expertise in GPU architectures, driver development, and system administration. 
-Skilled in Agile and Scrum methodologies, with strong problem-solving and teamwork abilities. Committed to continuous learning and improvement, demonstrated by contributions to open-source projects.
+Dedicated and cooperative graduate student in computer science with a strong desire to comprehend computer mechanics. My skill spans a range of topics, from data structures to artificial intelligence, and is based on analytical thinking and problem-solving. I champion the development of clean, elegant, and robust solutions while emphasizing effective communication and teamwork.
