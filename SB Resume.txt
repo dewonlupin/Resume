@@ -1,52 +1,1 @@
-Sarthak Bhatt
- sarthakbhatt@gmail.com | GitHub |LinkedIn | 916-490-8370  
- 
-SUMMARY
-Dedicated and cooperative graduate student in computer science with a strong desire to comprehend computer mechanics. My 
-skill spans a range of topics, from data structures to artificial intelligence, and is grounded in analytical thinking and problem-
-solving. I prioritize the development of clean, elegant, and robust solutions while emphasizing effective communication and 
-teamwork. Actively pursuing full-time positions starting July 2023.
-EDUCATION
-Master of Science Degree in Computer Science, California State University, Sacramento                                                July 2023
-Bachelor of Science Degree in Computer Science, UTU, UK, India                                                                                  May 2016
-SKILLS
-*	Programming languages and Platforms: C/C++, Java, Python, PostgreSQL, Bash, Batch Scripting, Linux, Windows, MacOS.
-*	Machine Learning: SVM, KNN, Logistic Regression, LSTM, CNN, TensorFlow, NumPy, Jupyter, Pandas.
-*	Web Technologies and Databases: JavaScript, HTML5, CSS, XML, MongoDB, Oracle, Angular, Microsoft SQL Server.
-*	Software tools: Docker, Git, CMake, QuickBuild, Jira, Kubernetes, Jenkins, Maven, AWS, Visual Studio, Tableau, Windbg
-EXPERIENCE
-	Core Graphics Software Engineer 	                                     Intel Corporation 	                                                 Sept 2021 - Aug 2022
-*	Developed Intel Integrated/Discrete graphics drivers for Intel's present and upcoming platforms tailored for Windows primarily 
-focusing on kernel-mode drivers and graphics memory management along with GPU Scheduling Firmware.
-*	Developed proficiency with WDDM (Window Display Driver Model) APIs and delved into the graphics pipeline.
-*	Collaborated in the implementation of Level-0 Sysman for Windows, telemetry, frequency, and power control.
-*	Validation and debugging of the Intel GPU Graphics Driver under Virtualized Environments like KVM GT under Windows.
-*	Resolved customer issues involving memory dumps, display screen corruption, timeout, and synchronization issues.
-SAP HANA Developer                                                            Waddaya Solution                                                May 2015 - Aug 2018
-*	Led data modeling and analytical view development in SAP HANA, emphasizing data management, reporting, and 
-collaboration with the security team for holistic business process improvements.
-*	Developed and deployed 20+ custom automation tools using Bash and Python; slashed effort reduction by 50%-60%. 
-*	Automated system backups and designed real-time monitoring alerts using shell scripting for critical systems.
-*	Managed Linux-based production servers, ensuring production server uptime and optimal system performance.
-*	Collaborated with the security team to perform regular audits, and vulnerability assessments and implement best security 
-practices.
-PROJECTS
-*	GPU Telemetry Tool for Intel (C++, CMake, Git, QuickBuild): Designed Intel's GPU telemetry tool, capturing metrics such as 
-core usage and memory bandwidth. Employed Intel's SDK for direct GPU interfacing, leveraging both continuous and event-
-driven sampling. Aggregated data for clarity and ensured efficient storage with real-time visualization. Further extended the 
-telemetry tool with a CLI for enhanced debugging, achieving a 25% reduction in debug time.
-*	E-Signature management system for CalPERS (Python, JavaScript, PHP, MySQL, XAMP, OpenCV, Pillow) Conceptualized 
-and deployed an E-Signature portal for CalPERS, emphasizing business process improvement, secure data management, and 
-user-centric design. Application features: encrypted database, in-page signature drawing, two-factor user authentication, and 
-password policies, The Backend of the application handles the elimination of noise from the image by reducing the aspect 
-ratio, converting the image to grayscale, and applying canny edge detection to make the uploaded image usable.
-*	Autonomous Line Follower Robot (C, ATmega168 (Arduino Duemilanove), Motor Driver, Infrared sensor): Successfully 
-designed and implemented a fully functional autonomous line follower robot using an ATmega168 microcontroller, motor 
-driver, and infrared sensors. Utilized the ATmega168 microcontroller for movement control and infrared sensors for path 
-tracking. 
-*	A Dashboard for Canines Suffering from CHF (Python, Matplotlib, Plotly, NumPy, Pandas, Scikit-learn, Streamlit): Crafted a 
-dashboard using Streamlit and Scikit-learn in Python that classifies the current condition of canines suffering from Congenital 
-Heart Failure with 98% success rate with features like generating PDF reports of the patient with interactive charts made in 
-real time just after the user inputs.
-PUBLISHED PAPER 
-      Bhatt, S., Jain, P. (2016). Face Detection & Color Detection Controlled WMR Using MATLAB. IJSER, 7(01), 1601-1603
+Sarthak Bhatt sarthakbhatt@gmail.com | GitHub |LinkedIn | 916-490-8370   SUMMARYAnalytical and solution-driven IT professional with extensive experience in technical information systems, data management, and business process improvements. Adept at integrating software, data, and hardware to align with user and organizational needs. Proficient in workflow systems, data reporting, and coordinating with centralized IT teams. Actively seeking a role to leverage my expertise and provide innovative solutions.EDUCATIONMaster of Science Degree in Computer Science, California State University, Sacramento                                                July 2023Bachelor of Science Degree in Computer Science, UTU, UK, India                                                                                  May 2016SKILLS*	Technical Platforms: Linux, Windows, MacOS, PeopleSoft (basic familiarity).*	Programming: C/C++, Java, Python, Bash, Batch Scripting. *	Data Analysis & Reporting: PostgreSQL, MongoDB, Oracle, Microsoft SQL Server, Tableau.*	Web Development: JavaScript, HTML5, CSS, XML, Angular. *	Software Tools & Systems: Docker, Git, Kubernetes, Jenkins, AWS, OnBase (basic familiarity).*	Machine Learning: SVM, KNN, TensorFlow, NumPy, Jupyter.EXPERIENCE	Core Graphics Software Engineer 	                                     Intel Corporation 	                                                   Sept 2021 - Aug 2022*	Collaborated with cross-functional teams to develop graphics drivers, emphasizing workflow enhancements.*	Developed proficiency with WDDM APIs and the graphics pipeline.*	Coordinated IT solutions with central IT divisions to optimize graphics memory management.*	Led a team in the successful completion of the GPU Telemetry Tool project.SAP HANA Consultant                                                        Waddaya Solution                                                   May 2015 - Aug 2018*	Led data modeling and analytical view development in SAP HANA, emphasizing data management, reporting, and user needs assessment.*	Automated system backups, designed real-time monitoring alerts, and ensured optimal system performance.*	Actively collaborated with the security team, coordinating audits, vulnerability assessments, and best security practices.PROJECTS*	E-Signature management system for CalPERS Developed a secure and user-centric E-Signature portal, focusing on business process improvement and efficient data management.Engaged in detailed functional acceptance testing, ensuring the system's robustness and efficiency.*	A Dashboard for Canines Suffering from CHF Crafted a dashboard using Streamlit and Scikit-learn in Python that classifies the current condition of canines suffering from Congenital Heart Failure with 98% success rate with features like generating PDF reports of the patient with interactive charts made in real time just after the user inputs.*	IEEE VAST Challenge 2023Developed a dashboard tool to detect Illegal, Unregulated, and Unauthorized (IUU) fishing activities. Highlighted the application of advanced data reporting and analysis, enhancing decision-making processes.PUBLISHED PAPER       Bhatt, S., Jain, P. (2016). Face Detection & Color Detection Controlled WMR Using MATLAB. IJSER, 7(01), 1601-1603ADDITIONAL INFORMATION *	Led a team of 5 in a semester-long project at Sacramento State, emphasizing IT project management.*	Experienced in the application of document imaging and workflow technology.*	Familiar with Sacramento State academic and administrative policies and procedures.
