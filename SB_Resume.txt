@@ -1,0 +1,52 @@
+Sarthak Bhatt
+ sarthakbhatt@gmail.com | GitHub |LinkedIn | 916-490-8370  
+ 
+SUMMARY
+Dedicated and cooperative graduate student in computer science with a strong desire to comprehend computer mechanics. My 
+skill spans a range of topics, from data structures to artificial intelligence, and is grounded in analytical thinking and problem-
+solving. I prioritize the development of clean, elegant, and robust solutions while emphasizing effective communication and 
+teamwork. Actively pursuing full-time positions starting July 2023.
+EDUCATION
+Master of Science Degree in Computer Science, California State University, Sacramento                                                July 2023
+Bachelor of Science Degree in Computer Science, UTU, UK, India                                                                                  May 2016
+SKILLS
+*	Programming languages and Platforms: C/C++, Java, Python, PostgreSQL, Bash, Batch Scripting, Linux, Windows, MacOS.
+*	Machine Learning: SVM, KNN, Logistic Regression, LSTM, CNN, TensorFlow, NumPy, Jupyter, Pandas.
+*	Web Technologies and Databases: JavaScript, HTML5, CSS, XML, MongoDB, Oracle, Angular, Microsoft SQL Server.
+*	Software tools: Docker, Git, CMake, QuickBuild, Jira, Kubernetes, Jenkins, Maven, AWS, Visual Studio, Tableau, Windbg
+EXPERIENCE
+	Core Graphics Software Engineer 	                                     Intel Corporation 	                                                 Sept 2021 - Aug 2022
+*	Developed Intel Integrated/Discrete graphics drivers for Intel's present and upcoming platforms tailored for Windows primarily 
+focusing on kernel-mode drivers and graphics memory management along with GPU Scheduling Firmware.
+*	Developed proficiency with WDDM (Window Display Driver Model) APIs and delved into the graphics pipeline.
+*	Collaborated in the implementation of Level-0 Sysman for Windows, telemetry, frequency, and power control.
+*	Validation and debugging of the Intel GPU Graphics Driver under Virtualized Environments like KVM GT under Windows.
+*	Resolved customer issues involving memory dumps, display screen corruption, timeout, and synchronization issues.
+SAP HANA Developer                                                            Waddaya Solution                                                May 2015 - Aug 2018
+*	Led data modeling and analytical view development in SAP HANA, emphasizing data management, reporting, and 
+collaboration with the security team for holistic business process improvements.
+*	Developed and deployed 20+ custom automation tools using Bash and Python; slashed effort reduction by 50%-60%. 
+*	Automated system backups and designed real-time monitoring alerts using shell scripting for critical systems.
+*	Managed Linux-based production servers, ensuring production server uptime and optimal system performance.
+*	Collaborated with the security team to perform regular audits, and vulnerability assessments and implement best security 
+practices.
+PROJECTS
+*	GPU Telemetry Tool for Intel (C++, CMake, Git, QuickBuild): Designed Intel's GPU telemetry tool, capturing metrics such as 
+core usage and memory bandwidth. Employed Intel's SDK for direct GPU interfacing, leveraging both continuous and event-
+driven sampling. Aggregated data for clarity and ensured efficient storage with real-time visualization. Further extended the 
+telemetry tool with a CLI for enhanced debugging, achieving a 25% reduction in debug time.
+*	E-Signature management system for CalPERS (Python, JavaScript, PHP, MySQL, XAMP, OpenCV, Pillow) Conceptualized 
+and deployed an E-Signature portal for CalPERS, emphasizing business process improvement, secure data management, and 
+user-centric design. Application features: encrypted database, in-page signature drawing, two-factor user authentication, and 
+password policies, The Backend of the application handles the elimination of noise from the image by reducing the aspect 
+ratio, converting the image to grayscale, and applying canny edge detection to make the uploaded image usable.
+*	Autonomous Line Follower Robot (C, ATmega168 (Arduino Duemilanove), Motor Driver, Infrared sensor): Successfully 
+designed and implemented a fully functional autonomous line follower robot using an ATmega168 microcontroller, motor 
+driver, and infrared sensors. Utilized the ATmega168 microcontroller for movement control and infrared sensors for path 
+tracking. 
+*	A Dashboard for Canines Suffering from CHF (Python, Matplotlib, Plotly, NumPy, Pandas, Scikit-learn, Streamlit): Crafted a 
+dashboard using Streamlit and Scikit-learn in Python that classifies the current condition of canines suffering from Congenital 
+Heart Failure with 98% success rate with features like generating PDF reports of the patient with interactive charts made in 
+real time just after the user inputs.
+PUBLISHED PAPER 
+      Bhatt, S., Jain, P. (2016). Face Detection & Color Detection Controlled WMR Using MATLAB. IJSER, 7(01), 1601-1603
