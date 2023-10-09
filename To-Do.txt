@@ -7,3 +7,68 @@
 		i. Publication should be focusing on WMR and Hardware
 	       ii. Explain algo utilized
 	      iii. Explain about the reward i.e. kudos at Intel
+
+
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+
+
+	1. A summary is typically a 3-5 sentence “summary” of how your skills and experience match what the employer is looking for, and should be tailored to each position you are applying for. 
+	   Just be sure to use clear and concise language to articulate how your skills/experience match the job description and not a lot of fluff.
+
+
+
+	2. Education: My pet peeve is Master’s and Bachelor’s, there is no apostrophe s in the title. If your school lists your degree in their catalog with the ‘s, there’s an idiot that doesn’t 
+	   understand grammar and doesn’t belong in education. (Yes, I’m aware that MS Office grammar now thinks that’s a thing, but it’s only because enough people make the mistake that it now considered okay.)
+	   Also, list out the degree name like: Master of Science Degree in Computer Information Systems - Software Development
+	   Bachelor of Science Degree in Computer Information Systems
+
+
+
+	3. I obviously do not know exactly what your degree is, but this is another area where you want to be specific and use clear and concise language. One of the main things in education is the 
+	   difference between a Master/Bachelor of Science and a Master/Bachelor of Arts or Applied Science, Education, etc, is that the coursework is theoretical and not a lot of hands-on labs where 
+	   you directly apply the knowledge being taught in Arts and Education degrees courses. So, you want to make sure that if you have a Master of Science Degree that you list is vs a Master of Arts Degree. (Sorry, I hope that makes sense.)
+
+
+
+	4. Additionally, someone already said that, but I’m going to reiterate it. Do not include the length of time you were in school, just the date you graduated, Month Year.
+
+
+
+	5. Skills: A couple of people said word vomit. I don’t agree. Typically the first review is not done by a person. The ATS is looking for a specific match percentage wise of keywords in your 
+	   resume to the keywords in the job description. If the job description lists soft skills, then they belong on your resume. What I like to do is go through the job description and look for 
+	   the specific skills that are highlighted in the description and then make sure those same skills are listed on the resume or as many of them as I actually have. I’m not one for embellishing, 
+	   if I don’t have that skill, I leave it off. If you see something repeated, it is an important skills to have listed on your resume.
+	   
+	   List those soft skills using Title Casing so it matches the rest of the skills.
+
+
+
+	6. Coursework: I don’t necessarily think it’s relevant for most resumes. To me, it’s a filler/fluff and unnecessary. I don’t even bother to look at it unless I’m looking to hire you as an Instructor/Faculty.
+
+
+
+	7. Job descriptions: It is my personal preference to revise my work history/experience to better match the requirements from the job descriptions. If the job description uses certain keywords or lingo, I will 
+	   add it to increase my match to the job description. Additionally, if you found the position on a site like Indeed, Monster, CareerBuilder, Dice, etc, go to the company’s website and find the position on their 
+	   careers/jobs page as that will have a much more intimidating and thorough description versus what’s posted elsewhere. (We do this to not scare people away from applying.). But this will enable you to make changes that will increase your chances of getting a match.
+
+
+Use bold only to call attention to what’s important, not everything. Specifically, do you want someone to pay attention to your job title, the company’s name or your dates of employment? If you have too many things bolded, the reader doesn’t know where to focus their attention. You use it sparingly to guide the reader to pay attention to what you want them too.
+
+
+
+------------ 08/04/2023 ------------
+Title																		Job ID   			URL
+Software Configuration Management Engineer – Hardware						JR1949071		https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Configuration-Management-Architect---Hardware_JR1949071?source=jobboardlinkedin
+GPU Development Tools System Software Engineer - New College Grad 2023		JR1969764		https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer---New-College-Grad-2023_JR1969764?source=jobboardlinkedin
+System Software Engineer - GPU												JR1968248		https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR1968248-1?source=jobboardlinkedin
+Linux Kernel Engineer														JR1968600		https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Linux-Kernel-Engineer_JR1968600?source=jobboardlinkedin
+System Software Engineer, Calibration - Autonomous Vehicles					JR1970043		https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR1970043?source=jobboardlinkedin
+------------------------------------
